@@ -96,7 +96,9 @@ Future work could examine additional relationships, such as:
 
 | File | Description |
 | --- | --- |
-| *(add dataset filename)* | Combined state-level dataset: GDP, COVID-19 cases/deaths, US region, governor's political party |
+| *COVID-19_Vaccinations_in_the_United_States_Jurisdiction.csv* | COVID vaccination across the United States  |
+| *United_States_COVID-19_Cases_and_Deaths_by_State_over_Time.csv* | State-level dataset: COVID-19 cases/deaths |
+| *SC212ProjectData.csv* | Combined/merge dataset: GDP, COVID-19 cases/deaths, US region, governor's political party |
 
 ## 📄 Presentation
 
